@@ -1,6 +1,5 @@
 ---
 tags:
-equivalence:
 reference:
   - "[[pipeline system]]"
 ---
