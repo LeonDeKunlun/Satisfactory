@@ -30,7 +30,7 @@ The head lift height provided by the segment is linear to the current volume ins
 ## Range
 To be explicit, the **lowest** height of head lift is the height of the lower endpoint of the segment.
 The **highest** height of head lift is given by:
-$$height~ ~of~ ~the~ ~higher~ ~endpoint + 1.3 \cos\theta$$
+$$height~of~the~higher~endpoint + 1.3 \cos\theta$$
 , where $\theta$ denotes the angle between the horizontal plane and the line determined by the two endpoints of the segment.
 ## Max Head Lift Volume
 The **max head lift volume** is the same in amount as the **displayed max volume**, that is $\max\{5,~0.65^2\pi\times length\}$ cubic metres.
