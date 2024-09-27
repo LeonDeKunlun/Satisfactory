@@ -8,7 +8,7 @@ reference:
 The two **endpoint**s of a bare pipeline segment locate at the center of its both ending cross-sections.
 
 # Length
-The **length** of a pipeline segment is the distance of its two endpoints.
+The **length** of a pipeline segment is the distance of its two endpoints, regardless of its shape.
 
 # Volume
 ## Display Max Volume
