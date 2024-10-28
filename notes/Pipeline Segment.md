@@ -19,10 +19,14 @@ The **length** of a pipeline segment is the distance between its two endpoints, 
 The **displayed max volume** is given by $\max\{5,~0.65^2\pi\times length\}$ cubic metres.
 ## Actual Max Volume
 The **actual max volume** is 1.4 times of the displayed max volume.
+###### Proof
+Fulfill a pipeline, then build a long-enough pipeline to export all the liquid.
 
 # Current Volume
 ## Displayed Current Volume
 The **current volume displayed** by the terminal is a mean value of volume since one opens the terminal or some ticks before current time, whichever is the later.
+
+# Flow Rate
 
 # Head Lift Pressure
 Liquid inside a pipeline segment can provide **head lift pressure**, due to Pascal's principle.
